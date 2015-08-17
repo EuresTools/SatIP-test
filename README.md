@@ -5,3 +5,5 @@ This is only the product of some fiddling around with libraries and the app does
 I used [CocoaSSDP](https://github.com/sboisson/CocoaSSDP) for the discovery. Candidate libraries to use for the actual RTSP connection and stream are [MobileVLCKit](https://code.videolan.org/videolan/VLCKit) and the [FFmpegWrapper](https://github.com/OpenWatch/FFmpegWrapper) for iOS.
 
 [DFURTSPPlayer](https://github.com/durfu/DFURTSPPlayer) is a working example of a RTSP streaming application for iOS.
+
+Essential reading for this project is the SAT>IP specification which can be found at the [SAT>IP website](http://www.satip.info).
