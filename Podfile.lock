@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (1.3.1)
+  - CocoaAsyncSocket (7.4.2)
+  - CocoaSSDP (0.1.0):
+    - CocoaAsyncSocket
+
+DEPENDENCIES:
+  - Alamofire (= 1.3.1)
+  - CocoaSSDP (~> 0.1)
+
+SPEC CHECKSUMS:
+  Alamofire: e4ab637e3195b645c814b87a652373439e59f2a4
+  CocoaAsyncSocket: f5783bdedd232d91b89769bc4b5a1580aed518ad
+  CocoaSSDP: ef376c3343aa8971c3eb09eba92a2c336ca7cd79
+
+COCOAPODS: 0.38.2
